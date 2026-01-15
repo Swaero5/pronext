@@ -31,9 +31,7 @@
 
 <p align="center">
   <img src="assets/screenshot-home.png" width="22%"/>
-  <img src="assets/screenshot-schedule.png" width="22%"/>
   <img src="assets/screenshot-stats.png" width="22%"/>
-  <img src="assets/screenshot-friends.png" width="22%"/>
 </p>
 
 ---
@@ -43,12 +41,11 @@
 - [x] Widget Android des 3 prochains cours *(beta)*
 - [x] Statistiques annuelles *(beta)*
 - [ ] Gestion des amis
+- [ ] Notification des profs absent.
 
 ---
 
 ## 🤝 Contribuer
-
-Les contributions sont les bienvenues !
 
 Le code du projet n'est pas encore disponible. Pour toutes questions ou améliorations, contactez-moi.
 
@@ -72,6 +69,5 @@ Cela signifie que tu peux :
 <p align="center">
   <i>
     Pronext n’est pas affilié à Pronote.<br>
-    Tous les noms et marques appartiennent à leurs propriétaires respectifs.
   </i>
 </p>
