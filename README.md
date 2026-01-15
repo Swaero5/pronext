@@ -2,12 +2,10 @@
   <img src="assets/banner.png" alt="Pronext banner" width="100%">
 </p>
 
-<h1 align="center">Pronext 🚀</h1>
+<h1 align="center">Pronext</h1>
 
 <p align="center">
-  <b>Pronote, next generation.</b><br>
-  A modern, open-source Pronote client for Android,<br>
-  built with <b>Jetpack Compose</b>.
+  <b>**Pronext** is a modern, open-source Pronote client for Android.</b><br>
 </p>
 
 <p align="center">
@@ -21,7 +19,7 @@
 ## ✨ Fonctionnalités
 
 - 📅 Affichage de l’emploi du temps et des devoirs en temps réel
-- 📊 Statistiques de l’année scolaire (*Wrapped-style recap*)
+- 📊 Statistiques de l’année scolaire
 - 👥 Visualisation de l’EDT de tes amis
 - ⏸️ Détection des pauses communes
 - 🎨 Interface moderne avec **Material You**
@@ -38,20 +36,13 @@
   <img src="assets/screenshot-friends.png" width="22%"/>
 </p>
 
-> ℹ️ Ces images sont des placeholders, remplace-les par les tiennes.
-
 ---
 
 ## 🗺️ Roadmap
 
-- [x] Structure du projet (Jetpack Compose)
-- [x] Base de l’interface Material You
-- [ ] Connexion aux données Pronote
-- [ ] Affichage EDT & devoirs
-- [ ] Statistiques annuelles (recap)
+- [x] Widget Android des 3 prochains cours *(beta)*
+- [x] Statistiques annuelles *(beta)*
 - [ ] Gestion des amis
-- [ ] Widgets Android
-- [ ] Publication Release GitHub
 
 ---
 
@@ -59,10 +50,7 @@
 
 Les contributions sont les bienvenues !
 
-1. Fork le projet
-2. Crée une branche (`feature/ma-feature`)
-3. Commit tes changements
-4. Ouvre une Pull Request
+Le code du projet n'est pas encore disponible. Pour toutes questions ou améliorations, contactez-moi.
 
 Même une petite amélioration ou une idée est appréciée 💙
 
