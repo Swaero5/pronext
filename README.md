@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pronext banner" width="100%">
+  <img src="assets/banner.png" alt="Pronext banner" width="80%">
 </p>
 
 <h1 align="center">Pronext</h1>
 
 <p align="center">
-  <b>**Pronext** is a modern, open-source Pronote client for Android.</b><br>
+  <b>a modern and open source Pronote client for Android.</b><br>
 </p>
 
 <p align="center">
@@ -41,6 +41,8 @@
 - [x] Widget Android des 3 prochains cours *(beta)*
 - [x] Statistiques annuelles *(beta)*
 - [ ] Gestion des amis
+- [ ] Partage rapide de données entre amis
+- [ ] Détection des pauses communes
 - [ ] Notification des profs absent.
 
 ---
