@@ -23,7 +23,7 @@
 - 👥 Visualisation de l’EDT de tes amis
 - ⏸️ Détection des pauses communes
 - 🎨 Interface moderne avec **Material You**
-- ⚡ Performances optimisées (Compose + Kotlin)
+- ⚡ Économe, fluide et compatible OLED
 
 ---
 
@@ -32,6 +32,7 @@
 <p align="center">
   <img src="assets/screenshot-home.png" width="22%"/>
   <img src="assets/screenshot-stats.png" width="22%"/>
+  <img src="assets/screenshot-widget.png" width="22%"/>
 </p>
 
 ---
