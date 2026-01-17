@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pronext banner" width="80%">
+  <img src="assets/banner.png" alt="Pronext banner" width="90%">
 </p>
 
 <h1 align="center">Pronext</h1>
@@ -41,10 +41,13 @@
 
 - [x] Widget Android des 3 prochains cours *(beta)*
 - [x] Statistiques annuelles *(beta)*
-- [ ] Gestion des amis
-- [ ] Partage rapide de données entre amis
-- [ ] Détection des pauses communes
+- [x] Gestion des amis
+- [x] Partage rapide de données entre amis
+- [x] Détection des pauses communes
 - [ ] Notification des profs absent.
+- [ ] Ajout d'une "IA" pour détecter les événements.
+- [ ] compatibilité pour les collèges
+- [ ] amélioration de l'affichage des devoirs
 
 ---
 
