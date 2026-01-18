@@ -7,6 +7,9 @@
 <p align="center">
   <b>a modern and open source Pronote client for Android.</b><br>
 </p>
+<p2 align="center">
+  <b>Parce que Pronote mérite une interface à la hauteur de son importance.</b><br>
+</p2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
@@ -18,12 +21,38 @@
 
 ## ✨ Fonctionnalités
 
-- 📅 Affichage de l’emploi du temps et des devoirs en temps réel
-- 📊 Statistiques de l’année scolaire
-- 👥 Visualisation de l’EDT de tes amis
-- ⏸️ Détection des pauses communes
-- 🎨 Interface moderne avec **Material You**
-- ⚡ Économe, fluide et compatible OLED
+### 📅 Emploi du temps & devoirs
+- Affichage **en temps réel** de l’emploi du temps
+- Mise à jour automatique lors des changements (annulations, déplacements)
+
+### 📊 Statistiques scolaires
+- Statistiques globales de l’année
+- Traitement des données 100% local.
+- Répartition du temps par matière
+- Journées chargées / légères
+- Heures de cours annulées
+ *et pleins d'autres...*
+
+### 👥 Fonctions sociales
+- Visualisation de l’EDT de tes amis
+- **Comparateur de pauses communes**
+- Détection automatique des créneaux partagés
+
+### 🎨 Interface
+- Interface moderne basée sur **Material You**
+- Couleurs dynamiques selon le thème du système
+- Économe, fluide et compatible ecran **OLED**
+
+---
+
+## 🔐 Respect de la vie privée
+
+🔒 **Pronext ne collecte aucune donnée personnelle.**
+
+- Aucun serveur externe
+- Aucun compte Pronext nécéssaire
+- Identifiants stockés localement
+- Traitement local des statistiques
 
 ---
 
