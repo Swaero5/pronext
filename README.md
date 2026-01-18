@@ -75,7 +75,7 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 5. Un **QR code** s’affiche
 
 📸 *Capture d’écran – Pronote PC : Export iCal avec QR code*  
- <img src="assets/tutorial/pc-qr.png" width="25%"/>
+ <img src="assets/pc-qr.png" width="25%"/>
 
 6. Ouvre **Pronext** sur ton téléphone
 7. Utilise le **scanner de QR code intégré**
