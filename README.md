@@ -57,8 +57,7 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 4. Sélectionne **Exporter au format iCal**
 5. Appuie sur **Copier l’adresse**
 
-📸 *Capture d’écran – Pronote mobile : Mes données → Compte → Export iCal*  
- <img src="assets/mobile-ical.png" width="25%"/>
+ <img src="assets/mobile-ical.png" width="80%"/>
 
 6. Ouvre **Pronext**
 7. Colle le lien iCal dans le champ prévu
@@ -74,8 +73,7 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 4. Sélectionne **Exporter au format iCal**
 5. Un **QR code** s’affiche
 
-📸 *Capture d’écran – Pronote PC : Export iCal avec QR code*  
- <img src="assets/pc-qr.png" width="25%"/>
+ <img src="assets/pc-qr.png" width="80%"/>
 
 6. Ouvre **Pronext** sur ton téléphone
 7. Utilise le **scanner de QR code intégré**
