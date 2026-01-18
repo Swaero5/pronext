@@ -30,9 +30,9 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-home.png" width="22%"/>
-  <img src="assets/screenshot-stats.png" width="22%"/>
-  <img src="assets/screenshot-widget.png" width="22%"/>
+  <img src="assets/screenshot-home.png" width="25%"/>
+  <img src="assets/screenshot-stats.png" width="25%"/>
+  <img src="assets/screenshot-widget.png" width="25%"/>
 </p>
 
 ---
@@ -45,9 +45,9 @@
 - [x] Partage rapide de données entre amis
 - [x] Détection des pauses communes
 - [ ] Notification des profs absent.
-- [ ] Ajout d'une "IA" pour détecter les événements.
-- [ ] compatibilité pour les collèges
-- [ ] amélioration de l'affichage des devoirs
+- [x] Ajout d'une "IA" pour détecter les événements.
+- [x] compatibilité pour les collèges
+- [x] amélioration de l'affichage des devoirs
 
 ---
 
