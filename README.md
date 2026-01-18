@@ -7,9 +7,7 @@
 <p align="center">
   <b>a modern and open source Pronote client for Android.</b><br>
 </p>
-<p2 align="center">
-  <b>Parce que Pronote mérite une interface à la hauteur de son importance.</b><br>
-</p2>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
@@ -45,6 +43,51 @@
 
 ---
 
+## 🔑 Comment connecter Pronext à Pronote
+
+Pronext utilise **l’export iCal officiel de Pronote**.  
+👉 **Aucun identifiant n’est récupéré**, tout passe par un lien fourni par Pronote.
+
+
+### 📱 Sur téléphone (Android / iOS)
+
+1. Ouvre **Pronote** (application ou version web)
+2. Va dans l’onglet **Mes données**
+3. Appuie sur **Compte**
+4. Sélectionne **Exporter au format iCal**
+5. Appuie sur **Copier l’adresse**
+
+📸 *Capture d’écran – Pronote mobile : Mes données → Compte → Export iCal*  
+ <img src="assets/mobile-ical.png" width="25%"/>
+
+6. Ouvre **Pronext**
+7. Colle le lien iCal dans le champ prévu
+
+✅ Ton emploi du temps et tes cours apparaissent automatiquement.
+
+
+### 💻 Sur PC (navigateur)
+
+1. Ouvre **Pronote** dans ton navigateur
+2. Va dans **Mes données**
+3. Clique sur **Compte**
+4. Sélectionne **Exporter au format iCal**
+5. Un **QR code** s’affiche
+
+📸 *Capture d’écran – Pronote PC : Export iCal avec QR code*  
+ <img src="assets/tutorial/pc-qr.png" width="25%"/>
+
+6. Ouvre **Pronext** sur ton téléphone
+7. Utilise le **scanner de QR code intégré**
+8. Valide l’import
+
+✅ Les données sont maintenant disponibles dans Pronext.
+
+💡 **Astuce** :  
+Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en pause.
+
+---
+
 ## 🔐 Respect de la vie privée
 
 🔒 **Pronext ne collecte aucune donnée personnelle.**
@@ -57,6 +100,7 @@
 ---
 
 ## 📱 Screenshots
+  <p>⭐ Parce que Pronote mérite une interface à la hauteur de son importance.</p>
 
 <p align="center">
   <img src="assets/screenshot-home.png" width="25%"/>
@@ -73,10 +117,11 @@
 - [x] Gestion des amis
 - [x] Partage rapide de données entre amis
 - [x] Détection des pauses communes
-- [ ] Notification des profs absent.
 - [x] Ajout d'une "IA" pour détecter les événements.
 - [x] compatibilité pour les collèges
 - [x] amélioration de l'affichage des devoirs
+- [ ] Fonctionne hors ligne après import
+- [ ] Notification des profs absent.
 
 ---
 
