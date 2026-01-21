@@ -1,0 +1,31 @@
+name: Update Stats  # Nom du workflow (visible dans l'onglet "Actions" de GitHub)
+
+# Déclenchement manuel via une requête API (depuis ton app Android)
+on:
+  repository_dispatch:
+    types: [ping]  # Type d'événement personnalisé
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest  # Machine virtuelle fournie par GitHub
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4  # Récupère le code du dépôt
+
+      - name: Install jq  # Outil pour manipuler du JSON en ligne de commande
+        run: sudo apt-get install -y jq
+
+      - name: Update stats.json
+        run: |
+          DATE=$(date +%Y-%m-%d)  # Date du jour au format AAAA-MM-JJ
+          # Incrémente le compteur pour la date du jour
+          jq --arg date "$DATE" '.[$date] += 1' stats.json > temp.json && mv temp.json stats.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add stats.json
+          git commit -m "Mise à jour des stats pour $DATE"
+          git push
