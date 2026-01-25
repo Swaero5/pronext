@@ -117,11 +117,13 @@ Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en 
 - [x] Gestion des amis
 - [x] Partage rapide de données entre amis
 - [x] Détection des pauses communes
-- [x] Ajout d'une "IA" pour détecter les événements.
-- [x] compatibilité pour les collèges
-- [x] amélioration de l'affichage des devoirs
-- [ ] Fonctionne hors ligne après import
-- [ ] Notification des profs absent.
+- [x] détection des événements
+- [x] compatibilité pour les collèges/lycées
+- [x] Fonctionne hors ligne après import
+- [ ] Ajout des parametres
+- [x] Notification des profs absent *(beta)*
+- [ ] Ajout d'un deuxième widget
+- [ ] Modernisation de l'affichage des cours
 
 ---
 
