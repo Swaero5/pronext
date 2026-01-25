@@ -40,7 +40,9 @@
 - Interface moderne basée sur **Material You**
 - Couleurs dynamiques selon le thème du système
 - Économe, fluide et compatible ecran **OLED**
-
+  
+ <img src="assets/colors.png" width="80%"/>
+ 
 ---
 
 ## 🔑 Comment connecter Pronext à Pronote
@@ -49,7 +51,7 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 👉 **Aucun identifiant n’est récupéré**, tout passe par un lien fourni par Pronote.
 
 
-### 📱 Sur téléphone (Android / iOS)
+### 📱 Sur téléphone
 
 1. Ouvre **Pronote** (application ou version web)
 2. Va dans l’onglet **Mes données**
