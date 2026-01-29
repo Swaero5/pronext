@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pronext banner" width="90%">
+  <img src="assets/banner.png" alt="Pronext banner" width="95%">
 </p>
 
 <h1 align="center">Pronext</h1>
@@ -35,13 +35,14 @@
 - Visualisation de l’EDT de tes amis
 - **Comparateur de pauses communes**
 - Détection automatique des créneaux partagés
+- Classement entre amis selon le nombre d’heures de cours, de devoirs, ou d’activités
 
 ### 🎨 Interface
 - Interface moderne basée sur **Material You**
 - Couleurs dynamiques selon le thème du système
 - Économe, fluide et compatible ecran **OLED**
   
- <img src="assets/colors.png" width="80%"/>
+ <img src="assets/colors.png" width="88%"/>
  
 ---
 
@@ -59,7 +60,7 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 4. Sélectionne **Exporter au format iCal**
 5. Appuie sur **Copier l’adresse**
 
- <img src="assets/mobile-ical.png" width="80%"/>
+ <img src="assets/mobile-ical.png" width="90%"/>
 
 6. Ouvre **Pronext**
 7. Colle le lien iCal dans le champ prévu
@@ -75,7 +76,7 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 4. Sélectionne **Exporter au format iCal**
 5. Un **QR code** s’affiche
 
- <img src="assets/pc-qr.png" width="80%"/>
+ <img src="assets/pc-qr.png" width="90%"/>
 
 6. Ouvre **Pronext** sur ton téléphone
 7. Utilise le **scanner de QR code intégré**
@@ -95,7 +96,9 @@ Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en 
 - Aucun serveur externe
 - Aucun compte Pronext nécéssaire
 - Identifiants stockés localement
-- Traitement local des statistiques
+- Traitement local des statistiques de cours
+*Une seule information est collectée depuis votre téléphone : savoir si vous avez ouvert l’application au moins une fois dans la journée.*
+*Ces données sont anonymes et accessibles publiquement.*
 
 ---
 
@@ -120,10 +123,14 @@ Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en 
 - [x] détection des événements
 - [x] compatibilité pour les collèges/lycées
 - [x] Fonctionne hors ligne après import
-- [ ] Ajout des parametres
+- [x] Ajout des parametres
 - [x] Notification des profs absent *(beta)*
+- [x] Ajout de statistiques anonymes
 - [ ] Ajout d'un deuxième widget
 - [ ] Modernisation de l'affichage des cours
+- [ ] Ajout d'un service de cantine??
+      
+✨**Pour toute suggestion de fonctionnalité ou d’amélioration, merci d’ouvrir une issue ou de me contacter.**
 
 ---
 
