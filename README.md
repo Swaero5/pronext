@@ -115,17 +115,16 @@ Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en 
 
 ## 🗺️ Roadmap
 
-- [x] Widget Android des 3 prochains cours *(beta)*
+- [x] Widget Android des 3 prochains cours
 - [x] Statistiques annuelles *(beta)*
-- [x] Gestion des amis
 - [x] Partage rapide de données entre amis
 - [x] Détection des pauses communes
 - [x] détection des événements
 - [x] compatibilité pour les collèges/lycées
 - [x] Fonctionne hors ligne après import
 - [x] Ajout des parametres
-- [x] Notification des profs absent *(beta)*
-- [x] Ajout de statistiques anonymes
+- [x] Notification des prochains cours*(beta)*
+- [x] Ajout d'analyse anonyme
 - [ ] Ajout d'un deuxième widget
 - [ ] Modernisation de l'affichage des cours
 - [ ] Ajout d'un service de cantine??
