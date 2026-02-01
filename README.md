@@ -33,7 +33,7 @@
 
 ### 👥 Fonctions sociales
 - Visualisation de l’EDT de tes amis
-- **Comparateur de pauses communes**
+- Comparateur de pauses communes
 - Détection automatique des créneaux partagés
 - Classement entre amis selon le nombre d’heures de cours, de devoirs, ou d’activités
 
@@ -42,7 +42,7 @@
 - Couleurs dynamiques selon le thème du système
 - Économe, fluide et compatible ecran **OLED**
   
- <img src="assets/colors.png" width="88%"/>
+ <img src="assets/colors.png" width="90%"/>
  
 ---
 
@@ -57,7 +57,7 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 1. Ouvre **Pronote** (application ou version web)
 2. Va dans l’onglet **Mes données**
 3. Appuie sur **Compte**
-4. Sélectionne **Exporter au format iCal**
+4. Sélectionne **Export au format iCal**
 5. Appuie sur **Copier l’adresse**
 
  <img src="assets/mobile-ical.png" width="90%"/>
@@ -73,19 +73,18 @@ Pronext utilise **l’export iCal officiel de Pronote**.
 1. Ouvre **Pronote** dans ton navigateur
 2. Va dans **Mes données**
 3. Clique sur **Compte**
-4. Sélectionne **Exporter au format iCal**
+4. Sélectionne **Export au format iCal**
 5. Un **QR code** s’affiche
 
  <img src="assets/pc-qr.png" width="90%"/>
 
 6. Ouvre **Pronext** sur ton téléphone
 7. Utilise le **scanner de QR code intégré**
-8. Valide l’import
 
 ✅ Les données sont maintenant disponibles dans Pronext.
 
 💡 **Astuce** :  
-Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en pause.
+Tu peux maintenant partager ton EDT avec tes amis pour débloquer de nouvelles fonctionnalités.
 
 ---
 
@@ -127,7 +126,7 @@ Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en 
 - [x] Ajout d'analyse anonyme
 - [ ] Ajout d'un deuxième widget
 - [ ] Modernisation de l'affichage des cours
-- [ ] Ajout d'un service de cantine??
+- [x] Ajout d'un service de cantine*(beta)*
       
 ✨**Pour toute suggestion de fonctionnalité ou d’amélioration, merci d’ouvrir une issue ou de me contacter.**
 
@@ -138,19 +137,6 @@ Tu peux maintenant partager ton EDT avec tes amis pour savoir quand ils sont en 
 Le code du projet n'est pas encore disponible. Pour toutes questions ou améliorations, contactez-moi.
 
 Même une petite amélioration ou une idée est appréciée 💙
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence **MIT**.
-
-Cela signifie que tu peux :
-- utiliser le code
-- le modifier
-- le redistribuer
-
-À condition de conserver la licence et les crédits.
 
 ---
 
