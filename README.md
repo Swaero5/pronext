@@ -22,6 +22,8 @@
 ### 📅 Emploi du temps & devoirs
 - Affichage **en temps réel** de l’emploi du temps
 - Mise à jour automatique lors des changements (annulations, déplacements)
+- Notification juste avant ton prochain cours
+- Widget intelligent et contextuel (cours, cantine, résumé hebdomadaire)
 
 ### 📊 Statistiques scolaires
 - Statistiques globales de l’année
