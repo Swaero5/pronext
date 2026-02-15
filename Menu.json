@@ -2,8 +2,8 @@
   "nantes": {
     "_meta": {
       "name": "Nantes",
-     "latitude": 48.8566,
-      "longitude": 2.3522
+      "latitude": 47.2184,
+      "longitude": -1.5536
     },
     "livet": "https://livet.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/40/2024/06/du-09-au-13-fevrier-2026.pdf",
     "clemenceau": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/02/sem10.png",
@@ -14,8 +14,8 @@
   "paris": {
     "_meta": {
       "name": "Paris",
-      "latitude": 47.2184,
-      "longitude": -1.5536
+      "latitude": 48.8566,
+      "longitude": 2.3522
     },
     "henri_iv": "https://livet.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/40/2024/06/du-09-au-13-fevrier-2026.pdf",
     "louis_le_grand": "",
