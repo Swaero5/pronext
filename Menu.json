@@ -1,14 +1,49 @@
 {
   "nantes": {
     "livet": "https://livet.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/40/2024/06/du-09-au-13-fevrier-2026.pdf",
-    "Clemenceau": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/02/sem10.png",
+    "clemenceau": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/02/sem10.png",
     "guisthau": "https://guisthau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/28/2021/11/Menu-semaine-5J-Pays-de-la-Loire.pdf",
-    "camus": "https://camus.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/10/2024/08/Menu-du-09-au-13-fevrier-2026.pdf"
+    "albert_camus": "https://camus.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/10/2024/08/Menu-du-09-au-13-fevrier-2026.pdf",
+    "la_coliniere": ""
   },
-  "Laval": {
-    "livre": "https://livet.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/40/2024/06/du-09-au-13-fevrier-2026.pdf",
-    "Clement": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/02/sem10.png",
-    "guisp": "https://guisthau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/28/2021/11/Menu-semaine-5J-Pays-de-la-Loire.pdf",
-    "camo": "https://camus.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/10/2024/08/Menu-du-09-au-13-fevrier-2026.pdf"
+
+  "paris": {
+    "henri_iv": "",
+    "louis_le_grand": "",
+    "saint_louis": "",
+    "condorcet": "",
+    "buffon": ""
+  },
+
+  "marseille": {
+    "thiers": "",
+    "saint_charles": "",
+    "antonin_arche": "",
+    "perrier": "",
+    "montgrand": ""
+  },
+
+  "lyon": {
+    "parc": "",
+    "edouard_herriot": "",
+    "martiniere_duchere": "",
+    "martiniere_monplaisir": "",
+    "saint_just": ""
+  },
+
+  "toulouse": {
+    "pierre_de_fermat": "",
+    "saint_sernin": "",
+    "raymond_naves": "",
+    "ode_de_catherine": "",
+    "gallieni": ""
+  },
+
+  "nice": {
+    "massena": "",
+    "calmette": "",
+    "apollinaire": "",
+    "estienne_dorves": "",
+    "les_eucalyptus": ""
   }
 }
