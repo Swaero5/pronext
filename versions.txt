@@ -1,2 +1,2 @@
 1.1
-https://github.com/Swaero5/pronext/releases
+https://github.com/Swaero5/pronext/releases/tag/Beta_1.1
