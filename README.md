@@ -129,6 +129,7 @@ Tu peux maintenant partager ton EDT avec tes amis pour débloquer de nouvelles f
 - [x] Ajout d'un deuxième widget
 - [x] Modernisation de l'affichage des cours
 - [x] Ajout d'un service de cantine et du menu*(beta)*
+- [x] ajout de la météo du jour si la localisation est activée.
 - [ ] Ajout de plus d'infos sur les amis(ex: Victor finit aussi à 16h)
 - [ ] barre de progression de la journée?
 - [ ] page "ma journée" qui montre rapidement ce qui attend l'eleve pendant sa journée(ex: Debut 8h fin 16h..ect)?
