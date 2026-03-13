@@ -126,9 +126,13 @@ Tu peux maintenant partager ton EDT avec tes amis pour débloquer de nouvelles f
 - [x] Ajout des parametres
 - [x] Notification des prochains cours*(beta)*
 - [x] Ajout d'analyse anonyme
-- [ ] Ajout d'un deuxième widget
-- [ ] Modernisation de l'affichage des cours
-- [x] Ajout d'un service de cantine*(beta)*
+- [x] Ajout d'un deuxième widget
+- [x] Modernisation de l'affichage des cours
+- [x] Ajout d'un service de cantine et du menu*(beta)*
+- [ ] Ajout de plus d'infos sur les amis(ex: Victor finit aussi à 16h)
+- [ ] barre de progression de la journée?
+- [ ] page "ma journée" qui montre rapidement ce qui attend l'eleve pendant sa journée(ex: Debut 8h fin 16h..ect)?
+- [ ] Soir, affichage rapide des cours et devoir du lendemain pour faire son sac ou ses devoirs rapidement.
       
 ✨**Pour toute suggestion de fonctionnalité ou d’amélioration, merci d’ouvrir une issue ou de me contacter.**
 
