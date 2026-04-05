@@ -124,13 +124,17 @@ Tu peux maintenant partager ton EDT avec tes amis pour débloquer de nouvelles f
 - [x] compatibilité pour les collèges/lycées
 - [x] Fonctionne hors ligne après import
 - [x] Ajout des parametres
-- [x] Notification des prochains cours*(beta)*
+- [x] Notification des prochains cours*(beta)*<br>
+=> Peut mal fonctionner à cause des optimisations batterie (Xiaomi, Samsung, Huawei).
 - [x] Ajout d'analyse anonyme
-- [x] Ajout d'un deuxième widget
+- [x] Ajout d'un deuxième widget(1 seul cours d'affiché)
 - [x] Modernisation de l'affichage des cours
-- [x] Ajout d'un service de cantine et du menu*(beta)*
+- [x] Ajout d'un service de cantine et du menu*(beta)*<br>
+=> Disponible uniquement dans certaines grandes villes.
 - [x] ajout de la météo du jour si la localisation est activée.
 - [x] Ajout d'un mode coloré, qui augmente le contraste des couleurs.*(beta)*
+- [x] Ajout d’un bandeau pour visualiser le passage du bus scolaire.
+=> Disponible uniquement dans certaines grandes villes pour les horaires en temps réels.
 - [ ] Ajout de plus d'infos sur les amis(ex: Victor finit aussi à 16h)
 - [ ] page "ma journée" qui montre rapidement ce qui attend l'eleve pendant sa journée(ex: Debut 8h fin 16h..ect)?
 - [ ] Soir, affichage rapide des cours et devoir du lendemain pour faire son sac ou ses devoirs rapidement.
