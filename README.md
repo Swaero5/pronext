@@ -133,10 +133,9 @@ Tu peux maintenant partager ton EDT avec tes amis pour débloquer de nouvelles f
 => Disponible uniquement dans certaines grandes villes.
 - [x] ajout de la météo du jour si la localisation est activée.
 - [x] Ajout d'un mode coloré, qui augmente le contraste des couleurs.*(beta)*
-- [x] Ajout d’un bandeau pour visualiser le passage du bus scolaire.
+- [x] Ajout d’un bandeau pour visualiser le passage du bus scolaire.<br>
 => Disponible uniquement dans certaines grandes villes pour les horaires en temps réels.
 - [ ] Ajout de plus d'infos sur les amis(ex: Victor finit aussi à 16h)
-- [ ] page "ma journée" qui montre rapidement ce qui attend l'eleve pendant sa journée(ex: Debut 8h fin 16h..ect)?
 - [ ] Soir, affichage rapide des cours et devoir du lendemain pour faire son sac ou ses devoirs rapidement.
 
 ✨**Pour toute suggestion de fonctionnalité ou d’amélioration, merci d’ouvrir une issue ou de me contacter.**
