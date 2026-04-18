@@ -37,6 +37,7 @@
 - Visualisation de l’EDT de tes amis
 - Comparateur de pauses communes
 - Détection automatique des créneaux partagés
+- Partage rapide d’edt entre amis via QRCode ou NFC
 - Classement entre amis selon le nombre d’heures de cours, de devoirs, ou d’activités
 
 ### 🎨 Interface
@@ -133,8 +134,9 @@ Tu peux maintenant partager ton EDT avec tes amis pour débloquer de nouvelles f
 => Disponible uniquement dans certaines grandes villes.
 - [x] ajout de la météo du jour si la localisation est activée.
 - [x] Ajout d'un mode coloré, qui augmente le contraste des couleurs.*(beta)*
-- [x] Ajout d’un bandeau pour visualiser le passage du bus scolaire.<br>
+- [ ] Ajout d’un bandeau pour visualiser le passage du bus scolaire.<br>
 => Disponible uniquement dans certaines grandes villes pour les horaires en temps réels.
+- [x] Possibilités de partager un edt par NFC
 - [ ] Ajout de plus d'infos sur les amis(ex: Victor finit aussi à 16h)
 - [ ] Soir, affichage rapide des cours et devoir du lendemain pour faire son sac ou ses devoirs rapidement.
 
@@ -146,7 +148,7 @@ Tu peux maintenant partager ton EDT avec tes amis pour débloquer de nouvelles f
 
 Le code du projet n'est pas encore disponible. Pour toutes questions ou améliorations, contactez-moi.
 
-Même une petite amélioration ou une idée est appréciée 💙
+Même une petite amélioration ou une idée est appréciée 💚
 
 ---
 
