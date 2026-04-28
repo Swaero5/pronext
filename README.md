@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Pronext banner" width="95%">
+  <img src="assets/banner.png#gh-dark-mode-only" alt="Pronext banner dark" width="95%">
+  <img src="assets/banner2.png#gh-light-mode-only" alt="Pronext banner light" width="95%">
 </p>
 
 <h1 align="center">Pronext</h1>
