@@ -26,7 +26,7 @@
 ---
 
 
-## ✨ Pourquoi Pronext ?
+## Pourquoi Pronext ?
 
 - ⚡ Ultra rapide et fluide
 - 🔐 100% local, aucune donnée envoyée
@@ -34,42 +34,43 @@
 - 📊 Statistiques avancées
 - 👥 Fonctionnalités sociales uniques
 
-## 🥊 Pronext vs Pronote
+## Pronext vs Pronote
 
 | | Pronote | Pronext |
 |--|--------|--------|
 | Performance | 🐢 | ⚡ |
-| Interface | Vieillissante | Moderne 🎨 |
+| Interface | Vieillissante | Moderne |
 | Statistiques | ❌ | ✅ |
 | Social | ❌ | ✅ |
 | Vie privée | ❌ | 🔐 100% local |
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
-### 📅 Organisation intelligente
+### Organisation intelligente
 - Emploi du temps en temps réel
 - Notifications intelligentes
 - Widget contextuel
 
-### 📊 Analyse scolaire
+### Analyse scolaire
 - Statistiques complètes
 - Répartition par matière
 - Statistiques entre amis
 
-### 👥 Social
+### Social
 - EDT de tes amis
 - Pauses communes
 - Partage rapide de l'edt
 
-### 🎨 Expérience
+### Expérience
 - Material You
 - Mode OLED
 - Trés fluide
 
-   <img src="assets/colors.png" width="90%"/>
- 
+<p align="center">
+  <img src="assets/colors.png" style="width:80%; max-width:600px;" />
+</p> 
 
-## ⚡ Installation
+## Installation
 
 <p align="left">
   <a href="https://github.com/swaero5/pronext/releases">
@@ -82,22 +83,20 @@
 3. Configure l'application
 4. Profite!
 
-## 🔐 Vie privée
+## Vie privée
 
 - ❌ Aucun compte
 - ❌ Aucun serveur
 - ✅ Données stockées localement
 - ✅ Aucun identifiant récupéré
 
-👉 Tu gardes le contrôle total.
-
-## ⭐ Supporte le projet
+## Supporte le projet
 
 Si tu aimes Pronext :
 
-- ⭐ Star le repo
-- 🐛 Report des bugs
-- 💡 Propose des idées
+-  Star le repo
+-  Report des bugs
+-  Propose des idées
 
 Ça aide énormément !
 
