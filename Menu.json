@@ -1,0 +1,69 @@
+{
+  "nantes": {
+    "_meta": {
+      "name": "Nantes",
+      "latitude": 47.2184,
+      "longitude": -1.5536
+    },
+    "livet": {
+      "base_url": "https://livet.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/40/2024/06",
+      "fallback_url": "https://livet.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/40/2024/06/Semaine-du-9-au-13-mars-2026.pdf"
+    },
+    "clemenceau": {
+      "base_url": "",
+      "fallback_url": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/02/sem10.png"
+    },
+    "guisthau": {
+      "base_url": "",
+      "fallback_url": "https://guisthau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/28/2021/11/Menu-semaine-5J-Pays-de-la-Loire.pdf"
+    },
+    "albert_camus": {
+      "base_url": "https://camus.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/10/2024/08",
+      "fallback_url": "https://camus.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/10/2024/08/Menu-du-09-au-13-mars-2026.pdf"
+    },
+    "la_coliniere": {
+      "base_url": "",
+      "fallback_url": ""
+    }
+  },
+  "paris": {
+    "_meta": { "name": "Paris", "latitude": 48.8566, "longitude": 2.3522 },
+    "henri_iv":       { "base_url": "", "fallback_url": "" },
+    "louis_le_grand": { "base_url": "", "fallback_url": "" },
+    "saint_louis":    { "base_url": "", "fallback_url": "" },
+    "condorcet":      { "base_url": "", "fallback_url": "" },
+    "buffon":         { "base_url": "", "fallback_url": "" }
+  },
+  "marseille": {
+    "_meta": { "name": "Marseille", "latitude": 43.2965, "longitude": 5.3698 },
+    "thiers":          { "base_url": "", "fallback_url": "" },
+    "saint_charles":   { "base_url": "", "fallback_url": "" },
+    "antonin_arche":   { "base_url": "", "fallback_url": "" },
+    "perrier":         { "base_url": "", "fallback_url": "" },
+    "montgrand":       { "base_url": "", "fallback_url": "" }
+  },
+  "lyon": {
+    "_meta": { "name": "Lyon", "latitude": 45.7640, "longitude": 4.8357 },
+    "parc":                    { "base_url": "", "fallback_url": "" },
+    "edouard_herriot":         { "base_url": "", "fallback_url": "" },
+    "martiniere_duchere":      { "base_url": "", "fallback_url": "" },
+    "martiniere_monplaisir":   { "base_url": "", "fallback_url": "" },
+    "saint_just":              { "base_url": "", "fallback_url": "" }
+  },
+  "toulouse": {
+    "_meta": { "name": "Toulouse", "latitude": 43.6047, "longitude": 1.4442 },
+    "pierre_de_fermat": { "base_url": "", "fallback_url": "" },
+    "saint_sernin":     { "base_url": "", "fallback_url": "" },
+    "raymond_naves":    { "base_url": "", "fallback_url": "" },
+    "ode_de_catherine": { "base_url": "", "fallback_url": "" },
+    "gallieni":         { "base_url": "", "fallback_url": "" }
+  },
+  "nice": {
+    "_meta": { "name": "Nice", "latitude": 43.7102, "longitude": 7.2620 },
+    "massena":          { "base_url": "", "fallback_url": "" },
+    "calmette":         { "base_url": "", "fallback_url": "" },
+    "apollinaire":      { "base_url": "", "fallback_url": "" },
+    "estienne_dorves":  { "base_url": "", "fallback_url": "" },
+    "les_eucalyptus":   { "base_url": "", "fallback_url": "" }
+  }
+}
