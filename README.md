@@ -63,7 +63,7 @@
 
 ### Expérience
 - Material You
-- Mode OLED
+- Couleurs dynamiques
 - Trés fluide
 
 <p align="center">
