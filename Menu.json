@@ -12,8 +12,10 @@
     "clemenceau": {
       "base_url": "",
       "fallback_url": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/02/sem10.png"
-       "_disabled": {
-      "fallback2_url": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/05/Capture-decran-2026-05-14-100330-980x636.png"
+    },
+      "clemenceau2": {
+      "base_url": "",
+      "fallback_url": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/05/Capture-decran-2026-05-14-100330-980x636.png"
     },
     "guisthau": {
       "base_url": "",
