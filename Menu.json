@@ -13,6 +13,10 @@
       "base_url": "",
       "fallback_url": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/02/sem10.png"
     },
+      "clemenceau2": {
+      "base_url": "",
+      "fallback_url": "https://gclemenceau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/26/2026/05/Capture-decran-2026-05-14-100330-980x636.png"
+    },
     "guisthau": {
       "base_url": "",
       "fallback_url": "https://guisthau.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/28/2021/11/Menu-semaine-5J-Pays-de-la-Loire.pdf"
@@ -22,8 +26,8 @@
       "fallback_url": "https://camus.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/10/2024/08/Menu-du-09-au-13-mars-2026.pdf"
     },
     "la_coliniere": {
-      "base_url": "",
-      "fallback_url": ""
+      "base_url": "https://coliniere.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/18/2026/05",
+      "fallback_url": "https://coliniere.paysdelaloire.e-lyco.fr/wp-content/uploads/sites/18/2026/05/21.-Menu-du-18-au-22-mai-2026.pdf"
     }
   },
   "paris": {
