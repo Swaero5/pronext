@@ -1,4 +1,4 @@
-<p align="center">
+0<p align="center">
   <img src="assets/banner.png#gh-dark-mode-only" alt="Pronext banner dark" width="95%">
   <img src="assets/banner2.png#gh-light-mode-only" alt="Pronext banner light" width="95%">
 </p>
@@ -105,5 +105,11 @@ Si tu aimes Pronext :
 <p align="center">
   <i>
     Pronext n’est pas affilié à Pronote.<br>
+  </i>
+</p>
+
+<p align="center">
+  <i>
+    L’application Pronext est en développement et peut être instable, pour assurer son bon fonctionnement, reportez les bugs dans la section "a propos", cela permet d’avoir une application fonctionelle pour tous.<br>
   </i>
 </p>
