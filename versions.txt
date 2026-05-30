@@ -1,5 +1,5 @@
 1.3
 https://github.com/Swaero5/pronext/releases/tag/1.3
-- Nouvelle interface repensée 
+- Interface repensée 
 - Nouvelles fonctionalités ajoutées
-Telechargez dès maintenant la toute derniere mise à jours de l'application afin de profiter des dernieres fonctionalités !
+- Application optimisée
