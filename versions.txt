@@ -1,2 +1,0 @@
-1.3
-https://github.com/Swaero5/pronext/releases/tag/1.3
