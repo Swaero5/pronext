@@ -1,5 +1,5 @@
 1.4
-https://github.com/Swaero5/pronext/releases/tag/1.3
+https://github.com/Swaero5/pronext/releases/tag/1.4
 - Interface repensée
 - Nouvelles fonctionnalités ajoutées
 - Application optimisée et performances améliorés
