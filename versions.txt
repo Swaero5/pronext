@@ -2,7 +2,6 @@
 https://github.com/Swaero5/pronext/releases/tag/1.4
 ### Quoi de nouveau ?
 - Interface repensée dans les parametres et la page de statistiques.
-> Ajout du partage de statistiques de l'année.
 - Nouvelles fonctionnalités ajoutées
-- **L'inteligence artificielle est maintenant disponible pour réviser avant vos évaluations!**
 - Correction de bugs mineurs
+>**L'inteligence artificielle est maintenant disponible pour réviser avant vos évaluations!**
