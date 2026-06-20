@@ -6,3 +6,4 @@ https://github.com/Swaero5/pronext/releases/tag/1.4
 - Correction de bugs mineurs
 >**L'intelligence artificielle est désormais disponible pour réviser avant vos évaluations !**
 >**L'application est entièrement utilisable hors connexion.**
+ 
