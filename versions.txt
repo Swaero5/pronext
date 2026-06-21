@@ -1,6 +1,7 @@
 1.4
 https://github.com/Swaero5/pronext/releases/tag/1.4
 ### Quoi de nouveau ?
+- Compatible avec Android 17.
 - Interface repensée pour les paramètres et les statistiques.
 - Nouvelles fonctionnalités ajoutées
 - Correction de bugs mineurs
