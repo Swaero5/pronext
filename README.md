@@ -24,11 +24,9 @@
 
 ---
 
-## 🚀 La vision Pronext
-
-Pronext n'est pas un simple lecteur de données scolaires. C'est un **assistant personnel contextuel** conçu pour faire le pont entre votre vie étudiante et votre quotidien. L'application transforme une interface administrative souvent rigide en un véritable centre de contrôle fluide, intelligent et centré sur vos besoins réels.
-
 ## Pourquoi Pronext ?
+
+Pronext n'est pas un simple lecteur de données scolaires. C'est un **assistant personnel contextuel** conçu pour faire le pont entre votre vie étudiante et votre quotidien. L'application réinvente l'accès à votre vie scolaire avec une expérience fluide, intelligente et conçue pour s'adapter à vous.
 
 - ⚡ **Performance native** : Oubliez les temps de chargement. L'accès à votre emploi du temps est instantané, même hors-ligne.
 - 🔐 **Local-First** : Vos identifiants et vos données restent sur votre appareil. L'application communique directement avec les services scolaires sans aucun serveur intermédiaire.
@@ -54,7 +52,7 @@ Visualisez votre progression autrement. Avec des statistiques détaillées et le
 Pronext simplifie la vie entre amis. Partagez votre emploi du temps en un geste via **NFC** ou **Bluetooth (BLE)** pour comparer vos heures de libre et trouver vos pauses communes.
 
 ### 📱 Un Hub Contextuel
-L'application comprend votre journée : la météo est intégrée à votre planning, des notifications intelligentes vous préviennent du matériel à emporter, et des widgets interactifs gardent l'essentiel à portée de main.
+L'application comprend votre journée : la météo est intégrée à votre planning, des notifications intelligentes vous préviennent des prochaines évaluations, et des widgets adaptatifs gardent l'essentiel à portée de main.
 
 ### 🧠 Aide à la révision
 Pour préparer vos évaluations, Pronext peut transformer le contenu de vos devoirs en supports d'apprentissage interactifs, vous permettant de réviser plus efficacement directement depuis votre mobile.
