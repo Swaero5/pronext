@@ -1,4 +1,4 @@
-1.4.2
+1.4.1
 https://github.com/Swaero5/pronext/releases/tag/1.4
 ### Quoi de nouveau ?
 - Compatible avec Android 17.
