@@ -29,9 +29,9 @@
 Pronext n'est pas un simple lecteur de données scolaires. C'est un **assistant personnel contextuel** conçu pour faire le pont entre votre vie étudiante et votre quotidien. L'application réinvente l'accès à votre vie scolaire avec une expérience fluide, intelligente et conçue pour s'adapter à vous.
 
 - ⚡ **Performance native** : Oubliez les temps de chargement. L'accès à votre emploi du temps est instantané, même hors-ligne.
-- 🔐 **Local-First** : Vos identifiants et vos données restent sur votre appareil. L'application communique directement avec les services scolaires sans aucun serveur intermédiaire.
+- 🔐 **Local-First** : Vos données restent sur votre appareil. L'application communique directement avec les services scolaires sans aucun serveur intermédiaire.
 - ✨ **Apprentissage Intelligent** : Des outils intégrés pour vous aider lors des révisions (génération de flashcards et quiz à la demande).
-- 🎨 **Personnalisation Totale** : Une interface qui s'adapte à votre système avec **Material You** et un mode **Liquid Glass** unique.
+- 🎨 **Personnalisation Totale** : Une interface qui s'adapte à votre système avec **Material You**.
 
 ## L'expérience utilisateur
 
