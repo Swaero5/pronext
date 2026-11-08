@@ -1,4 +1,4 @@
-1.4.5
+1.4.1
 https://github.com/Swaero5/pronext/releases/tag/1.4.5
 ### Quoi de nouveau ?
 - Application complétement repensée avec une synchronisation en direct à pronote, consultez votre emploi du temps, notes, devoirs... et plus encore, et tout ça en temps réel!
